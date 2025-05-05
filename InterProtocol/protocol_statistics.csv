@@ -1,0 +1,9 @@
+,throughput_mbps,throughput_mbps,throughput_mbps,throughput_mbps,retransmits
+,mean,std,min,max,mean
+protocol,,,,,
+BBR-R,12.43,2.42,9.96,14.79,18590.67
+BBRv1,6.12,5.09,0.5,10.39,3494.67
+BBRv3,1.14,0.75,0.45,1.93,538.33
+Cubic,3.66,2.37,2.03,6.37,1024.0
+PCC,15.59,4.82,10.28,19.69,12886.33
+Reno,2.52,2.03,1.03,4.84,2018.67
